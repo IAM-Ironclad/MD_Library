@@ -1,4 +1,5 @@
-# 🚀 YouTube Automation Master Plan - 30 Day Index
+# 🚀 An Ambitious YouTube Automation Master Plan - 30 Day Index
+# Fun Attempt by Syed Farhan Hussain
 ## Complete Guide to Building "Top 10 Insights" Channel
 
 **Channel:** Top 10 Insights  
