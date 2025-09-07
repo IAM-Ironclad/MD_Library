@@ -244,10 +244,10 @@
 
 ## 📊 **KEY MILESTONES TRACKER**
 
-| Milestone | Target Date | Status | Revenue Goal |
-|-----------|-------------|--------|--------------|
-| 🏆 First Video Live | Sep 11 | ⏳ Pending | $0 |
-| 🏆 5 Videos Complete | Sep 18 | ⏳ Pending | $0 |
+| Milestone | Target Date | Status | Revenue Goal | Comments |
+|-----------|-------------|--------|--------------|----------|
+| 🏆 First Video Live | Sep 11 | ⏳ Pending | $0 | - |
+| 🏆 5 Videos Complete | Sep 18 | ⏳ Pending | $0 | - |
 | 🏆 Channel Active | Sep 25 | ⏳ Pending | $10-50 | Extremely Ambitious - **Nearly Impossible** |
 | 🏆 Fully Automated | Oct 3 | ⏳ Pending | $100-500 | **Are you kiddin?** |
 | 🎯 **30-Day Target** | **Oct 6** | ⏳ **Pending** | **$1000+** | **I like the optimism though** |
